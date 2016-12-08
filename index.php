@@ -2,7 +2,7 @@
 echo "<h1>Hello OpenShift 2016-12-02<h1>";
 echo "Greetings:";
 echo getenv("GREETINGS");
-echo "おはよう"
+echo "おはよう";
 echo "<br>";
 
 echo "Container Name: ";
